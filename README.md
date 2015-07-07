@@ -140,9 +140,11 @@ See [CHANGELOG](CHANGELOG.md).
 
 ## License and Authors
 
- * Author:: Huiming Teo <teohuiming@gmail.com>
+ * Author:: Moshe Katz <kohenkatz@gmail.com>
+ * Original Author:: Huiming Teo <teohuiming@gmail.com>
 
 Copyright 2013, Huiming Teo
+Copyright 2015, Moshe Katz
 
 Licensed under the Apache License, Version 2.0 (the "License");
 you may not use this file except in compliance with the License.
