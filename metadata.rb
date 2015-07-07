@@ -4,7 +4,7 @@ maintainer_email "kohenkatz@gmail.com"
 license          "Apache License 2.0"
 description      "Setup a database server that runs multiple MySQL and PostgreSQL databases."
 long_description IO.read(File.join(File.dirname(__FILE__), 'README.md'))
-version          "0.1.1"
+version          "0.1.2"
 
 recipe            "databox", "Includes all recipes."
 recipe            "databox::mysql", "Install MySQL and create MySQL databases."

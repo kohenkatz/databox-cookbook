@@ -1,4 +1,4 @@
-# Chef cookbook - databox (v0.1.1)
+# Chef cookbook - databox (v0.1.2)
 
 Setup a **database server** that runs multiple MySQL and PostgreSQL databases.
 
