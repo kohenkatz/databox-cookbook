@@ -28,6 +28,7 @@ node.set['postgresql']['pg_hba'].map! do |line|
     copy
   else
     line
+  end
 end
 
 postgresql_connection_info = {
